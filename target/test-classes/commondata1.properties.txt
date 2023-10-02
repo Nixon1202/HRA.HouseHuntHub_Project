@@ -1,0 +1,6 @@
+#Write Data
+#Mon Sep 11 11:20:22 IST 2023
+password=admin
+browser=chrome
+url=http\://rmgtestingserver/domain/House_Rental_Application/
+username=admin
